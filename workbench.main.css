@@ -1,0 +1,14 @@
+// ADD THIS LINES
+
+.sidebar {
+   font-family: "Monoid";
+   letter-spacing: -0.3px;
+}
+
+.sidebar a.label-name {
+   font-size: 12px !important;
+}
+
+.sidebar .monaco-tree-row {
+   height: 23px !important;
+}
