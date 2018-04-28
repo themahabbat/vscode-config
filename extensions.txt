@@ -1,0 +1,11 @@
+Apache Conf
+Auto Close Tag
+Auto Rename Tag
+DotENV
+IntelliSense for CSS class names in HTML
+laravel-blade
+npm
+PHP Intelephense
+Prettier - Code Formatter
+Rainglow
+VSCode Great Icons
