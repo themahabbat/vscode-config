@@ -12,3 +12,7 @@
 .sidebar .monaco-tree-row {
    height: 23px !important;
 }
+
+.tabs-container {
+   font-family: Monoid;
+}
