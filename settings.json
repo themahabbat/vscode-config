@@ -1,0 +1,33 @@
+{
+  "editor.wordWrap": true,
+  "editor.fontFamily": "Monoid",
+  "editor.fontSize": 13,
+  "window.zoomLevel": -1,
+  "git.ignoreMissingGitWarning": true,
+  "workbench.startupEditor": "newUntitledFile",
+  "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\cmd.exe",
+  "php.suggest.basic": false,
+  "editor.tabSize": 3,
+  "editor.fontLigatures": true,
+  "editor.formatOnPaste": true,
+  "editor.formatOnType": true,
+  "editor.lineHeight": 24,
+  "editor.minimap.enabled": false,
+  "editor.smoothScrolling": true,
+  "editor.tabCompletion": true,
+  "php.validate.executablePath": "C:\\xampp\\php\\php.exe",
+  "workbench.iconTheme": "vscode-great-icons",
+  "workbench.colorCustomizations": {
+    "statusBar.background": "#333",
+    "statusBar.foreground": "#fff",
+    "statusBar.noFolderBackground": "#333",
+    "statusBar.noFolderForeground": "#fff"
+  },
+  "window.menuBarVisibility": "toggle",
+  "workbench.activityBar.visible": true,
+  "workbench.colorTheme": "Piggy Contrast (rainglow)",
+  "explorer.confirmDragAndDrop": false,
+  "explorer.confirmDelete": false,
+  "workbench.sideBar.location": "left",
+  
+}
