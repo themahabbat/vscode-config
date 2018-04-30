@@ -9,3 +9,5 @@ PHP Intelephense
 Prettier - Code Formatter
 Rainglow
 VSCode Great Icons
+Material Icon Theme
+Blueberry Dark Theme
