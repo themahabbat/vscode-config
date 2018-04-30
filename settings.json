@@ -1,10 +1,7 @@
 {
   "editor.wordWrap": true,
-  // "editor.fontFamily": "Fira Code Light",
-  // "editor.fontFamily": "Operator Mono",
   "editor.fontFamily": "Monoid",
   "editor.fontSize": 13,
-  // "editor.letterSpacing": -0.3,
   "window.zoomLevel": -1,
   "git.ignoreMissingGitWarning": true,
   "workbench.startupEditor": "newUntitledFile",
