@@ -1,4 +1,8 @@
 {
+  "files.exclude": {
+    "node_modules/": true
+  },
+  
   "editor.wordWrap": true,
   "editor.fontFamily": "Monoid",
   "editor.fontSize": 13,
