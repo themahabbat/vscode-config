@@ -5,7 +5,15 @@
   },
   "files.associations": {
     "*.blade.php": "html"
-},
+  },
+  "emmet.syntaxProfiles": {
+    "php": "html",
+    "blade": "html"
+  },
+  "emmet.includeLanguages": {
+    "php": "html",
+    "blade": "html"
+  },
   "npm.enableScriptExplorer": true,
   "editor.wordWrap": true,
   "editor.fontFamily": "Operator Mono",
