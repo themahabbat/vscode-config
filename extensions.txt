@@ -1,13 +1,30 @@
-Apache Conf
-Auto Close Tag
-Auto Rename Tag
-DotENV
-IntelliSense for CSS class names in HTML
-laravel-blade
-npm
-PHP Intelephense
-Prettier - Code Formatter
-Rainglow
-VSCode Great Icons
-Material Icon Theme
-Blueberry Dark Theme
+2gua.rainbow-brackets
+bmewburn.vscode-intelephense-client
+christian-kohler.path-intellisense
+cjhowe7.laravel-blade
+daylerees.rainglow
+eamodio.gitlens
+eg2.vscode-npm-script
+emmanuelbeziat.vscode-great-icons
+esbenp.prettier-vscode
+formulahendry.auto-close-tag
+formulahendry.auto-rename-tag
+joelday.docthis
+mgmcdermott.vscode-language-babel
+mikestead.dotenv
+mrmlnc.vscode-apache
+naumovs.color-highlight
+oderwat.indent-rainbow
+patbenatar.advanced-new-file
+peymanslh.blueberry-dark-theme
+pflannery.vscode-versionlens
+PKief.material-icon-theme
+redhat.java
+robinbentley.sass-indented
+vscjava.vscode-java-debug
+vscjava.vscode-java-pack
+vscjava.vscode-java-test
+vscjava.vscode-maven
+vsmobile.vscode-react-native
+wayou.vscode-todo-highlight
+Zignd.html-css-class-completion
