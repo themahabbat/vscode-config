@@ -1,4 +1,12 @@
 {
+  "indentRainbow.colors": [
+    "rgba(14,122,230,0.02)",
+    "rgba(14,122,230,0.06)",
+    "rgba(14,122,230,0.09)",
+    "rgba(14,122,230,0.1)",
+  ],
+  
+
   "files.exclude": {
     "*/node_modules/": true,
     "node_modules/": true,
@@ -18,7 +26,11 @@
   },
   "npm.enableScriptExplorer": true,
   "editor.wordWrap": "on",
+  // "editor.fontFamily": "Monoid",
+  // "editor.fontFamily": "Fira Code",
   "editor.fontFamily": "Consolas",
+  "editor.fontSize": 15,
+  // "editor.letterSpacing": 0.5,
   "window.zoomLevel": 0,
   "git.ignoreMissingGitWarning": true,
   "workbench.startupEditor": "newUntitledFile",
@@ -26,7 +38,7 @@
   "php.suggest.basic": false,
   "editor.tabSize": 3,
   "editor.fontLigatures": true,
-  "editor.formatOnPaste": true,
+  // "editor.formatOnPaste": true,
   "editor.formatOnType": true,
   "editor.lineHeight": 26,
   "editor.minimap.enabled": false,
@@ -42,9 +54,16 @@
   },
   "window.menuBarVisibility": "toggle",
   "workbench.activityBar.visible": true,
-  "workbench.colorTheme": "Comrade Contrast (rainglow)",
+  "workbench.colorTheme": "Mintchoc Contrast (rainglow)",
   "explorer.confirmDragAndDrop": false,
   "explorer.confirmDelete": false,
   "workbench.sideBar.location": "left",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "gitlens.advanced.messages": {
+    "suppressShowKeyBindingsNotice": true
+  },
+  "html.format.indentHandlebars": true,
+  "html.format.indentInnerHtml": true,
+
   
 }
