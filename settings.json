@@ -18,7 +18,9 @@
   },
   "emmet.syntaxProfiles": {
     "php": "html",
-    "blade": "html"
+    "blade": "html",
+    "scss": "css",
+    "sass": "css"
   },
   "emmet.includeLanguages": {
     "php": "html",
@@ -54,7 +56,6 @@
   },
   "window.menuBarVisibility": "toggle",
   "workbench.activityBar.visible": true,
-  "workbench.colorTheme": "Mintchoc Contrast (rainglow)",
   "explorer.confirmDragAndDrop": false,
   "explorer.confirmDelete": false,
   "workbench.sideBar.location": "left",
