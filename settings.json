@@ -1,79 +1,73 @@
 {
-  "telemetry.enableTelemetry": false,
-  "telemetry.enableCrashReporter": false,
+    "telemetry.enableTelemetry": false,
+    "telemetry.enableCrashReporter": false,
+    
+    "indentRainbow.colors": [
+      "rgba(14,122,230,0.02)",
+      "rgba(14,122,230,0.06)",
+      "rgba(14,122,230,0.09)",
+      "rgba(14,122,230,0.1)",
+    ],
+    "window.titleBarStyle": "custom",
+    
+    "files.associations": {
+      "*.blade.php": "html"
+    },
+    "emmet.syntaxProfiles": {
+      "php": "html",
+      "blade": "html",
+      "scss": "css",
+      "sass": "css"
+    },
+    "emmet.includeLanguages": {
+      "php": "html",
+      "blade": "html"
+    },
+    "npm.enableScriptExplorer": true,
+    "editor.wordWrap": "on",
+    // "editor.fontFamily": "Monoid",
+    // "editor.fontFamily": "Fira Code",
+    // "editor.fontFamily": "Consolas",
+    // "editor.fontFamily": "Operator Mono",
+    // "editor.fontFamily": "Iosevka",
+    // "editor.fontSize": 15,
+    "editor.fontWeight": "400",
+    "editor.letterSpacing": 0.25,
+    "window.zoomLevel": 0.3,
+    "git.ignoreMissingGitWarning": true,
+    "workbench.startupEditor": "newUntitledFile",
+    "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\cmd.exe",
+    "php.suggest.basic": false,
+    "editor.tabSize": 3,
+    // "editor.fontSize": 14,
+    "editor.fontLigatures": true,
+    // "editor.formatOnPaste": true,
+    "editor.formatOnType": true,
+    "editor.lineHeight": 24,
+    "editor.minimap.enabled": false,
+    "editor.smoothScrolling": true,
+    "editor.tabCompletion": true,
+    "php.validate.executablePath": "C:\\xampp\\php\\php.exe",
+    "workbench.iconTheme": "vscode-great-icons",
+    "workbench.colorCustomizations": {
+      "statusBar.background": "#333",
+      "statusBar.foreground": "#fff",
+      "statusBar.noFolderBackground": "#333",
+      "statusBar.noFolderForeground": "#fff"
+    },
+    "window.menuBarVisibility": "toggle",
+    "workbench.activityBar.visible": true,
+    "explorer.confirmDragAndDrop": false,
+    "explorer.confirmDelete": false,
+    "workbench.sideBar.location": "left",
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "gitlens.advanced.messages": {
+      "suppressShowKeyBindingsNotice": true
+    },
+    "html.format.indentHandlebars": true,
+    "html.format.indentInnerHtml": true,
+    "workbench.statusBar.feedback.visible": false,
   
-  "indentRainbow.colors": [
-    "rgba(14,122,230,0.02)",
-    "rgba(14,122,230,0.06)",
-    "rgba(14,122,230,0.09)",
-    "rgba(14,122,230,0.1)",
-  ],
-  "window.titleBarStyle": "custom",
+    
+  }
   
-
-  "files.exclude": {
-    "*/node_modules/": true,
-    "node_modules/": true,
-    "*/vendor/": true,
-    "vendor/": true
-  },
-  "files.associations": {
-    "*.blade.php": "html"
-  },
-  "emmet.syntaxProfiles": {
-    "php": "html",
-    "blade": "html",
-    "scss": "css",
-    "sass": "css"
-  },
-  "emmet.includeLanguages": {
-    "php": "html",
-    "blade": "html"
-  },
-  "npm.enableScriptExplorer": true,
-  "editor.wordWrap": "on",
-  // "editor.fontFamily": "Monoid",
-  // "editor.fontFamily": "Fira Code",
-  // "editor.fontFamily": "Consolas",
-  // "editor.fontFamily": "Operator Mono",
-  "editor.fontFamily": "Iosevka",
-  // "editor.fontSize": 15,
-  "editor.fontWeight": "400",
-  "editor.letterSpacing": 0.25,
-  "window.zoomLevel": 0.3,
-  "git.ignoreMissingGitWarning": true,
-  "workbench.startupEditor": "newUntitledFile",
-  "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\cmd.exe",
-  "php.suggest.basic": false,
-  "editor.tabSize": 3,
-  // "editor.fontSize": 14,
-  "editor.fontLigatures": true,
-  // "editor.formatOnPaste": true,
-  "editor.formatOnType": true,
-  "editor.lineHeight": 24,
-  "editor.minimap.enabled": false,
-  "editor.smoothScrolling": true,
-  "editor.tabCompletion": true,
-  "php.validate.executablePath": "C:\\xampp\\php\\php.exe",
-  "workbench.iconTheme": "vscode-great-icons",
-  "workbench.colorCustomizations": {
-    "statusBar.background": "#333",
-    "statusBar.foreground": "#fff",
-    "statusBar.noFolderBackground": "#333",
-    "statusBar.noFolderForeground": "#fff"
-  },
-  "window.menuBarVisibility": "toggle",
-  "workbench.activityBar.visible": true,
-  "explorer.confirmDragAndDrop": false,
-  "explorer.confirmDelete": false,
-  "workbench.sideBar.location": "left",
-  "javascript.updateImportsOnFileMove.enabled": "always",
-  "gitlens.advanced.messages": {
-    "suppressShowKeyBindingsNotice": true
-  },
-  "html.format.indentHandlebars": true,
-  "html.format.indentInnerHtml": true,
-  "workbench.statusBar.feedback.visible": false,
-
-  
-}
