@@ -5,6 +5,7 @@
     "rgba(14,122,230,0.09)",
     "rgba(14,122,230,0.1)",
   ],
+  "window.titleBarStyle": "custom",
   
 
   "files.exclude": {
@@ -30,24 +31,28 @@
   "editor.wordWrap": "on",
   // "editor.fontFamily": "Monoid",
   // "editor.fontFamily": "Fira Code",
-  "editor.fontFamily": "Consolas",
-  "editor.fontSize": 15,
-  // "editor.letterSpacing": 0.5,
-  "window.zoomLevel": 0,
+  // "editor.fontFamily": "Consolas",
+  // "editor.fontFamily": "Operator Mono",
+  "editor.fontFamily": "Iosevka",
+  // "editor.fontSize": 15,
+  "editor.fontWeight": "400",
+  "editor.letterSpacing": 0.25,
+  "window.zoomLevel": 0.3,
   "git.ignoreMissingGitWarning": true,
   "workbench.startupEditor": "newUntitledFile",
   "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\cmd.exe",
   "php.suggest.basic": false,
   "editor.tabSize": 3,
+  // "editor.fontSize": 14,
   "editor.fontLigatures": true,
   // "editor.formatOnPaste": true,
   "editor.formatOnType": true,
-  "editor.lineHeight": 26,
+  "editor.lineHeight": 24,
   "editor.minimap.enabled": false,
   "editor.smoothScrolling": true,
   "editor.tabCompletion": true,
   "php.validate.executablePath": "C:\\xampp\\php\\php.exe",
-  "workbench.iconTheme": "material-icon-theme",
+  "workbench.iconTheme": "vscode-great-icons",
   "workbench.colorCustomizations": {
     "statusBar.background": "#333",
     "statusBar.foreground": "#fff",
@@ -65,6 +70,7 @@
   },
   "html.format.indentHandlebars": true,
   "html.format.indentInnerHtml": true,
+  "workbench.statusBar.feedback.visible": false,
 
   
 }
