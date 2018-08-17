@@ -1,4 +1,7 @@
 {
+  "telemetry.enableTelemetry": false,
+  "telemetry.enableCrashReporter": false,
+  
   "indentRainbow.colors": [
     "rgba(14,122,230,0.02)",
     "rgba(14,122,230,0.06)",
