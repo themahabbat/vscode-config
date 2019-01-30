@@ -15,7 +15,7 @@
   "editor.fontWeight": "400",
   "editor.cursorBlinking": "solid",
   "editor.colorDecorators": false,
-  "workbench.activityBar.visible": false,
+  "workbench.activityBar.visible": true,
   "workbench.sideBar.location": "left",
   "editor.renderWhitespace": "none",
   "editor.minimap.showSlider": "always",
@@ -125,4 +125,8 @@
   "terminal.integrated.shell.windows": "C:\\Windows\\System32\\cmd.exe",
   "workbench.colorTheme": "Monokai Pro (Filter Octagon)",
   "workbench.iconTheme": "Monokai Pro (Filter Octagon) Icons",
+  "vscode_custom_css.imports": [
+    "file:///C:/Users/M/vscode.css"
+  ],
+  "vscode_custom_css.policy": true,
 }
