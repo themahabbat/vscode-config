@@ -1,6 +1,13 @@
 .monaco-tree-wrapper,
-.tabs-container {
-  font-family: "Space Mono";
+.tabs-container,
+.part.titlebar,
+.menubar-menu-title,
+.actions-container {
+  font-family: "Space Mono" !important;
+}
+
+.actions-container li {
+  cursor: pointer !important;
 }
 
 .monaco-tree-row[aria-level="2"] {
@@ -19,4 +26,8 @@
 .monaco-tree-row {
    height: 28px !important;
    padding: 5px 12px !important;
+}
+
+.window-appicon {
+  display: none !important;
 }
