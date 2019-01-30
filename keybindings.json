@@ -14,5 +14,9 @@
     "key": "shift+alt+up",
     "command": "editor.action.copyLinesUpAction",
     "when": "editorTextFocus && !editorReadonly"
+  },
+  {
+    "key": "alt+e",
+    "command": "workbench.action.toggleActivityBarVisibility"
   }
 ]
