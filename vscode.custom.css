@@ -1,0 +1,22 @@
+.monaco-tree-wrapper,
+.tabs-container {
+  font-family: "Space Mono";
+}
+
+.monaco-tree-row[aria-level="2"] {
+  text-indent: 15px !important;
+}
+.monaco-tree-row[aria-level="3"] {
+  text-indent: 25px !important;
+}
+.monaco-tree-row[aria-level="4"] {
+  text-indent: 35px !important;
+}
+.monaco-tree-row[aria-level="5"] {
+  text-indent: 45px !important;
+}
+
+.monaco-tree-row {
+   height: 28px !important;
+   padding: 5px 12px !important;
+}
