@@ -6,9 +6,6 @@
   font-family: "Space Mono" !important;
 }
 
-.tabs-container .tab {
-  padding-right: 12px !important;
-}
 
 .tabs-container .tab.active {
   border-right: 1px solid #FFD70C !important;
