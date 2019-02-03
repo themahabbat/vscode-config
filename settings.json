@@ -15,7 +15,7 @@
   "editor.fontWeight": "400",
   "editor.cursorBlinking": "solid",
   "editor.colorDecorators": false,
-  "workbench.activityBar.visible": true,
+  "workbench.activityBar.visible": false,
   "workbench.sideBar.location": "left",
   "editor.renderWhitespace": "none",
   "editor.minimap.showSlider": "always",
@@ -27,7 +27,12 @@
     "**/.hg": true,
     "**/CVS": true,
     "**/.DS_Store": true,
-    "**/.next": true
+    "**/.next": true,
+    "node_modules/": true
+  },
+  "search.exclude": {
+    "node_modules/*": true,
+    "vendor/*": true
   },
   "workbench.editor.tabCloseButton": "off",
   "emmet.includeLanguages": {
