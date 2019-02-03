@@ -15,19 +15,31 @@
   cursor: pointer !important;
 }
 
+.monaco-tree-row[aria-level="1"] {
+  text-indent: 5px !important;
+}
+
 .monaco-tree-row[aria-level="2"] {
   text-indent: 25px !important;
 }
 .monaco-tree-row[aria-level="3"] {
-  text-indent: 45px !important;
-}
-.monaco-tree-row[aria-level="4"] {
   text-indent: 55px !important;
 }
-.monaco-tree-row[aria-level="5"] {
-  text-indent: 65px !important;
+.monaco-tree-row[aria-level="4"] {
+  text-indent: 85px !important;
 }
-
+.monaco-tree-row[aria-level="5"] {
+  text-indent: 115px !important;
+}
+.monaco-tree-row[aria-level="6"] {
+  text-indent: 145px !important;
+}
+.monaco-tree-row[aria-level="7"] {
+  text-indent: 175px !important;
+}
+.monaco-tree-row[aria-level="8"] {
+  text-indent: 205px !important;
+}
 .monaco-tree-row {
    height: 28px !important;
    padding: 5px 12px !important;
