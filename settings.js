@@ -11,7 +11,7 @@
   "html.format.enable": true,
   "html.format.preserveNewLines": true,
   "files.trimTrailingWhitespace": true,
-  "editor.tabSize": 4,
+  "editor.tabSize": 3,
   "editor.cursorWidth": 5,
   "editor.cursorStyle": "line",
   "editor.wordWrap": "on",
@@ -132,7 +132,7 @@
     ]
   },
   "terminal.integrated.shell.windows": "C:\\Windows\\System32\\cmd.exe",
-  "workbench.colorTheme": "Monokai Pro (Filter Octagon)",
+  "workbench.colorTheme": "Cobalt2",
   "workbench.iconTheme": "Monokai Pro (Filter Octagon) Icons",
   "vscode_custom_css.imports": [
     "file:///C:/Users/M/vscode.css"
