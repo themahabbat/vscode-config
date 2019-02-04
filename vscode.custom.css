@@ -66,7 +66,8 @@
 .part.titlebar,
 .menubar-menu-title,
 .actions-container {
-  font-family: "Space Mono" !important;
+  /* font-family: "Space Mono" !important; */
+  font-family: "Operator Mono" !important;
 }
 
 
@@ -109,10 +110,10 @@
 /*
    ? ROW PROPERTIES
 */
-.monaco-tree-row {
+/* .monaco-tree-row {
    height: 24px !important;
    padding: 0px 12px !important;
-}
+} */
 
 /*
    ? DEFINING SIMPLE LINE
