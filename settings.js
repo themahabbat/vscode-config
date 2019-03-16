@@ -11,7 +11,7 @@
    "html.format.enable": true,
    "html.format.preserveNewLines": true,
    "files.trimTrailingWhitespace": true,
-   "editor.tabSize": 3,
+   "editor.tabSize": 4,
    "editor.cursorWidth": 5,
    "editor.cursorStyle": "line",
    "editor.wordWrap": "on",
