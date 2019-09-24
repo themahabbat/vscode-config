@@ -1,22 +1,22 @@
 // Place your key bindings in this file to override the defaultsauto[]
 [
-  {
-    "key": "alt+q",
-    "command": "editor.action.formatDocument",
-    "when": "editorTextFocus && !editorReadonly"
-  },
-  {
-    "key": "alt+shift+down",
-    "command": "editor.action.copyLinesDownAction",
-    "when": "editorTextFocus && !editorReadonly"
-  },
-  {
-    "key": "shift+alt+up",
-    "command": "editor.action.copyLinesUpAction",
-    "when": "editorTextFocus && !editorReadonly"
-  },
-  {
-    "key": "alt+e",
-    "command": "workbench.action.toggleActivityBarVisibility"
-  }
-]
+    {
+      "key": "alt+q",
+      "command": "editor.action.formatDocument",
+      "when": "editorTextFocus && !editorReadonly"
+    },
+    {
+      "key": "alt+shift+down",
+      "command": "editor.action.copyLinesDownAction",
+      "when": "editorTextFocus && !editorReadonly"
+    },
+    {
+      "key": "shift+alt+up",
+      "command": "editor.action.copyLinesUpAction",
+      "when": "editorTextFocus && !editorReadonly"
+    },
+    {
+      "key": "alt+e",
+      "command": "workbench.action.toggleActivityBarVisibility"
+    }
+  ]
