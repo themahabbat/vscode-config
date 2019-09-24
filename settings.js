@@ -1,12 +1,27 @@
 {
+    "bracket-pair-colorizer-2.colors": [ // requires Bracket Pair Colorizer 2
+        "#5fb3b3",
+        "#c5a5c5",
+        "#5a9bcf",
+        "#fac863",
+    ],
+    "color-highlight.markerType": "underline", // requires Color Highlight Extension
+    "color-highlight.markRuler": false, // requires Color Highlight Extension
+    "editor.letterSpacing": 0.5,
+    //
+    //
+    //
+    //
     // "editor.fontFamily": "Space Mono",
-    // "editor.fontFamily": "Dank Mono",
-    "editor.fontFamily": "Gintronic",
+    "editor.fontFamily": "Dank Mono",
+    // "editor.fontFamily": "Gintronic",
     // "editor.fontFamily": "Operator Mono",
     // "editor.fontFamily": "Inconsolata",
-    "editor.fontSize": 15,
+    "editor.fontSize": 18,
+    "editor.lineHeight": 28,
     "editor.fontLigatures": true,
     "editor.minimap.enabled": false,
+    "explorer.autoReveal": false,
     // "editor.letterSpacing": 0.5,
     "workbench.editor.tabSizing": "shrink",
     "html.format.enable": true,
@@ -22,7 +37,7 @@
     "editor.colorDecorators": false,
     "workbench.activityBar.visible": true,
     "workbench.sideBar.location": "left",
-    "editor.renderWhitespace": "true",
+    "editor.renderWhitespace": "all",
     "editor.minimap.showSlider": "always",
     "workbench.startupEditor": "newUntitledFile",
     "extensions.ignoreRecommendations": false,
@@ -40,9 +55,6 @@
         "node_modules/*": true
     },
     "workbench.editor.tabCloseButton": "off",
-    "emmet.includeLanguages": {
-        "javascript": "javascriptreact"
-    },
     "editor.snippetSuggestions": "top",
     "workbench.editor.enablePreviewFromQuickOpen": false,
     "workbench.tree.indent": 22,
@@ -65,13 +77,6 @@
     "editor.scrollBeyondLastLine": true,
     "editor.useTabStops": true,
     "editor.formatOnPaste": true,
-    "[jade]": {
-        "togglequotes.chars": [
-            "\"",
-            "'",
-            "`"
-        ]
-    },
     "files.associations": {
         "*.blade.php": "html"
     },
@@ -83,19 +88,21 @@
     },
     "emmet.includeLanguages": {
         "php": "html",
-        "blade": "html"
+        "blade": "html",
+        "javascript": "javascriptreact"
     },
     "php.suggest.basic": false,
     "window.zoomLevel": 0,
-    "editor.lineHeight": 24,
     "editor.smoothScrolling": true,
-    "php.validate.executablePath": "/usr/bin/php",
+    "php.validate.executablePath": "c:/xampp/php/php.exe",
     "explorer.confirmDragAndDrop": false,
     "explorer.confirmDelete": false,
     "javascript.updateImportsOnFileMove.enabled": "always",
-    "gitlens.advanced.messages": {
-        "suppressShowKeyBindingsNotice": true
-    },
+    "terminal.integrated.shell.windows": "C:/Windows/System32/cmd.exe",
+    // "terminal.integrated.shell.windows": "C:/Windows/System32/cmd.exe",
+    // "terminal.integrated.shellArgs.windows": [
+    //     "/k C:\\PROGRA~2\\Cmder\\vendor\\init.bat"
+    // ],
     "html.format.indentHandlebars": true,
     "html.format.indentInnerHtml": true,
     "editor.parameterHints.enabled": false,
@@ -132,7 +139,8 @@
             }
         ]
     },
-    "workbench.colorTheme": "Cobalt2",
-    "workbench.iconTheme": "material-icon-theme",
     "workbench.statusBar.visible": false,
+    "workbench.iconTheme": "material-icon-theme",
+    "window.menuBarVisibility": "toggle",
+    "workbench.colorTheme": "Cobalt Next",
 }
