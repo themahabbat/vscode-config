@@ -7,18 +7,18 @@
     ],
     "color-highlight.markerType": "underline", // requires Color Highlight Extension
     "color-highlight.markRuler": false, // requires Color Highlight Extension
-    "editor.letterSpacing": 0.5,
     //
     //
     //
     //
     // "editor.fontFamily": "Space Mono",
-    "editor.fontFamily": "Dank Mono",
+    // "editor.fontFamily": "Hack",
+    // "editor.fontFamily": "Dank Mono",
     // "editor.fontFamily": "Gintronic",
-    // "editor.fontFamily": "Operator Mono",
+    "editor.fontFamily": "Operator Mono",
     // "editor.fontFamily": "Inconsolata",
-    "editor.fontSize": 18,
-    "editor.lineHeight": 28,
+    "editor.fontSize": 16,
+    "editor.lineHeight": 30,
     "editor.fontLigatures": true,
     "editor.minimap.enabled": false,
     "explorer.autoReveal": false,
@@ -28,18 +28,18 @@
     "html.format.preserveNewLines": true,
     "files.trimTrailingWhitespace": true,
     "editor.tabSize": 4,
-    "editor.cursorWidth": 5,
+    "editor.cursorWidth": 8,
     "editor.cursorStyle": "line",
     "editor.wordWrap": "on",
     "editor.multiCursorModifier": "ctrlCmd",
-    "editor.fontWeight": "400",
+    "editor.fontWeight": "500",
     "editor.cursorBlinking": "solid",
     "editor.colorDecorators": false,
     "workbench.activityBar.visible": true,
     "workbench.sideBar.location": "left",
-    "editor.renderWhitespace": "all",
+    // "editor.renderWhitespace": "all",
     "editor.minimap.showSlider": "always",
-    "workbench.startupEditor": "newUntitledFile",
+    "workbench.startupEditor": "none",
     "extensions.ignoreRecommendations": false,
     "files.exclude": {
         "**/.git": true,
@@ -49,7 +49,6 @@
         "**/.DS_Store": true,
         "**/.next": true,
         "node_modules/": true,
-        "vendor/": true
     },
     "search.exclude": {
         "node_modules/*": true
@@ -57,7 +56,7 @@
     "workbench.editor.tabCloseButton": "off",
     "editor.snippetSuggestions": "top",
     "workbench.editor.enablePreviewFromQuickOpen": false,
-    "workbench.tree.indent": 22,
+    "workbench.tree.indent": 30,
     "window.title": "${dirty} ${activeEditorMedium}${separator}${rootName}",
     "editor.formatOnSave": true,
     "[javascript]": {
@@ -142,5 +141,4 @@
     "workbench.statusBar.visible": false,
     "workbench.iconTheme": "material-icon-theme",
     "window.menuBarVisibility": "toggle",
-    "workbench.colorTheme": "Cobalt Next",
 }
