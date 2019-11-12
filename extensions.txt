@@ -1,6 +1,6 @@
 aaron-bond.better-comments
+andrewmarkle.primer-light
 bmewburn.vscode-intelephense-client
-bradlc.vscode-tailwindcss
 christian-kohler.path-intellisense
 cmstead.jsrefactor
 CoenraadS.bracket-pair-colorizer-2
@@ -8,9 +8,8 @@ dbaeumer.vscode-eslint
 dline.CobaltNext
 formulahendry.auto-close-tag
 formulahendry.auto-rename-tag
-macieklad.tailwind-sass-syntax
 mikestead.dotenv
-ms-vscode-remote.remote-wsl
+ms-python.python
 naumovs.color-highlight
 PKief.material-icon-theme
 pnp.polacode
