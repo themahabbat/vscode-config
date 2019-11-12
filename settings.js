@@ -13,11 +13,11 @@
     //
     // "editor.fontFamily": "Space Mono",
     // "editor.fontFamily": "Hack",
-    // "editor.fontFamily": "Dank Mono",
+    "editor.fontFamily": "Dank Mono",
     // "editor.fontFamily": "Gintronic",
-    "editor.fontFamily": "Operator Mono",
+    // "editor.fontFamily": "Operator Mono",
     // "editor.fontFamily": "Inconsolata",
-    "editor.fontSize": 16,
+    "editor.fontSize": 19,
     "editor.lineHeight": 30,
     "editor.fontLigatures": true,
     "editor.minimap.enabled": false,
@@ -93,7 +93,7 @@
     "php.suggest.basic": false,
     "window.zoomLevel": 0,
     "editor.smoothScrolling": true,
-    "php.validate.executablePath": "c:/xampp/php/php.exe",
+    "php.validate.executablePath": "/usr/bin/php7.3",
     "explorer.confirmDragAndDrop": false,
     "explorer.confirmDelete": false,
     "javascript.updateImportsOnFileMove.enabled": "always",
@@ -138,7 +138,9 @@
             }
         ]
     },
-    "workbench.statusBar.visible": false,
+    "workbench.statusBar.visible": true,
     "workbench.iconTheme": "material-icon-theme",
     "window.menuBarVisibility": "toggle",
+    "workbench.colorTheme": "Cobalt Next",
+    "git.autofetch": true,
 }
